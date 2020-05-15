@@ -1,5 +1,5 @@
 class Hello {
 public static void main(String[] args) {
-System.out.println("changes to local repository");
+System.out.println("change feature");
 }
 }
